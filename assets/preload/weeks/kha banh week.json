@@ -1,0 +1,48 @@
+{
+	"storyName": "kha banh week",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"oi-ban-oi",
+			"tabi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"choi-do",
+			"tabi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"mua-quat",
+			"tabi genocide",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"tabi",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}
